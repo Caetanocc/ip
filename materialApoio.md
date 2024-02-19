@@ -21,6 +21,9 @@ https://www.hostinger.com.br/tutoriais/comando-curl-linux
 ## cURL Windows
 https://4sysops.com/archives/how-to-use-curl-on-windows/
 
+## Proxy
+https://pt.stackoverflow.com/questions/242560/o-que-%C3%A9-proxy-reverso
+
 
 
 
