@@ -5,8 +5,8 @@
 https://hackersec.com/c/blog/tutoriais-hacker/
 
 ## HTTP 
-https://developer.mozilla.org/pt-BR/docs/Web/HTTP
-https://httpbin.org/
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP<br>
+https://httpbin.org/<br>
 https://http.cat/
 
 ## DNS
